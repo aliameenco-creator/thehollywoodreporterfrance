@@ -1,4 +1,4 @@
-# Coding & Architecture Standards — The Hollywood Reporter UK
+# Coding & Architecture Standards — The Hollywood Reporter France
 
 This project adheres strictly to WordPress VIP and Penske Media Corporation (PMC Larva) coding standards.
 

@@ -1,4 +1,4 @@
-# The Hollywood Reporter UK (WordPress VIP / PMC Larva Architecture)
+# The Hollywood Reporter France (WordPress VIP / PMC Larva Architecture)
 
 This repository contains the complete custom theme and plugins for **The Hollywood Reporter UK**, built strictly to WordPress VIP and Penske Media Corporation (PMC Larva) engineering standards.
 

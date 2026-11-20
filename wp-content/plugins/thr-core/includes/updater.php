@@ -22,7 +22,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  * @return string
  */
 function thr_updater_repo() {
-	return defined( 'THR_GITHUB_REPO' ) ? THR_GITHUB_REPO : 'aliameenco-creator/thehollywoodreporteruk';
+	return defined( 'THR_GITHUB_REPO' ) ? THR_GITHUB_REPO : 'aliameenco-creator/thehollywoodreporterfrance';
 }
 
 /**
